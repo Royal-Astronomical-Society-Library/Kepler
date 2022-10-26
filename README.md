@@ -3,7 +3,7 @@
 <param ve-config 
        title="Johannes Kepler"
        author="A.E.L. Davies and J.V. Field"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://ras.ac.uk/sites/default/files/2018-03/Kepler%20portrait%20DSC01553.jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?url=(https://upload.wikimedia.org/wikipedia/commons/f/f3/Kepler_De_Stella_Nova.jpg)" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
