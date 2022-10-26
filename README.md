@@ -24,12 +24,10 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 ## Image
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
+Johannes Kepler was a German mathematician and astronomer. He was also a leading exponent of the Copernican heliocentric system. He is most famous for his laws of planetary motion. A contemporary of Galileo, he succeeded Tycho Brahe as imperial mathematician in Prague. In 1609 he established the geometrical basis of the laws of planetary motion using Brahe’s observations. He also carried out research on cosmic harmonies, celestial physics and optics.[^1]
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       label="Portrait of Kepler " 
+       description="Detail from the frontispiece of Astronomia Nova" 
        license="public domain" 
        url="https://ras.ac.uk/sites/default/files/2018-03/Kepler%20portrait%20DSC01553.jpg">
 
